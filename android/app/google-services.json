@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475637132562",
+    "firebase_url": "https://qalam-new.firebaseio.com",
+    "project_id": "qalam-new",
+    "storage_bucket": "qalam-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475637132562:android:726050906bdf46b2ee57cb",
+        "android_client_info": {
+          "package_name": "com.example.fyp_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475637132562-ji8jn1bn9qc3172tb5tqbrandu481dim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgdNMLQPsgYv8WYN0GQAbL66T7I-kLPT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475637132562-ji8jn1bn9qc3172tb5tqbrandu481dim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
